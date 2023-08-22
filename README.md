@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br><br>🎯 Goals:<br>Learn new technologies and frameworks<br>Contribute to open-source projects<br>Build excellent applications that solve real-world problems<br><br>🎲 Fun fact: I love to travel</p>
+<p align="left">✨ Creating new projects and solving problems since 2019<br><br>🎯 Goals:<br>Learn new technologies and frameworks<br>Contribute to open-source projects<br>Build excellent applications that solve real-world problems<br><br>🎲 Fun fact: I love to travel</p>
 
 ###
 
